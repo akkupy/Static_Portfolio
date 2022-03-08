@@ -3,6 +3,8 @@
 <h3 align="center">
 Just a Simple Static Portfolio on html and css</h3>
 
+<p align="center"><a href="https://static-portfolio-akkupy.vercel.app/"><img src="assets/images/tapme.gif" width="100"></a></p>
+
 
 
 # Make it Yours
